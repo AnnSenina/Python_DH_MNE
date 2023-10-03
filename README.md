@@ -3,6 +3,8 @@
 
 Занятия проходят по [ссылке](https://pythondh.ktalk.ru/m4xob0uyhwox)
 
+Плейлист с записью занятий на [youtube](https://youtube.com/playlist?list=PLJjYjyaJUm_N6MkfT5aqto3yk49jNtLZh&si=dSq0slBlBcZeFYjz)
+
 # Программа курса: 
 
 1. Среды для программирования
