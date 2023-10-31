@@ -11,7 +11,7 @@
 2. [Ввод-вывод, простые типы данных, переменные](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_Intro_1.ipynb)
 3. [Условной оператор if. Цикл while](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_3_if%2C_while.ipynb)
 4. [Цикл for. Списки и кортежи, range](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_lists%2C_for.ipynb)
-5. [Методы](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Шпаргалка_по_методам.ipynb) и [функции](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_Functions.ipynb)
+5. [Методы](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Шпаргалка_по_методам.ipynb) и [функции](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_Function.ipynb)
 6. Словари и множества
 7. Работа с файлами
 8. Библиотека pandas, работа с датасетами
