@@ -5,6 +5,8 @@
 
 Плейлист с записью занятий на [youtube](https://youtube.com/playlist?list=PLJjYjyaJUm_N6MkfT5aqto3yk49jNtLZh&si=dSq0slBlBcZeFYjz)
 
+[Баллы](https://docs.google.com/spreadsheets/d/1aMJpuUeU2zmKZI0aInMlcSKuhovwuHXRGSwDfrPyRXM/edit?usp=sharing)
+
 # Программа курса: 
 
 1. Среды для программирования
