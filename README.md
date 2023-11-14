@@ -15,7 +15,7 @@
 4. [Цикл for. Списки и кортежи, range](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_lists%2C_for.ipynb)
 5. [Методы](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Шпаргалка_по_методам.ipynb) и [функции](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_Function.ipynb)
 6. [Словари и множества](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_3_set%2C_dict.ipynb)
-7. Работа с файлами
+7. [Работа с файлами](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_6_os%2C_files.ipynb)
 8. Библиотека pandas, работа с датасетами
 9. Статистика и анализ данных. 
 10. Визуализация данных
