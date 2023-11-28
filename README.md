@@ -18,12 +18,12 @@
 7. [Работа с файлами](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_6_os%2C_files.ipynb)
 8. [Библиотека pandas, работа с датасетами](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_pandas.ipynb) + [пара заданий](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B_%D0%B4%D0%B0%D1%82%D0%B0%D1%81%D0%B5%D1%82_%D0%BF%D0%BE_%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D1%82%D0%B0%D0%BC.ipynb) попроще
 9. [Статистика и анализ данных](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Базовая%20статистика.ipynb) + дополнительные материалы:
- - [линейная регрессия](https://colab.research.google.com/drive/1P9HnYUVMxM9x4MLcHC47evLreatizTPI?usp=sharing)
- - [нелинейная регрессия (полиноминальная)](https://colab.research.google.com/drive/12xrlEm8izVFoRg5vu2DYA_qtaTYA_Op9?usp=sharing)
- - [классификация](https://colab.research.google.com/drive/1DA86KDzHyZvsK2u-G_mtLQD4qQ3pcSHS?usp=sharing)
- - [кластеризация](https://colab.research.google.com/drive/1aFR1lt4kEtxv5F0tweW9n-2t1jPcdrU4?usp=sharing)
- - [факторный анализ](https://colab.research.google.com/drive/1_Uy9IZuVUW8F65Jj2HpD23HP32l6UOf1?usp=sharing)
- - классный [курс по анализу данных](https://compscicenter.ru/courses/data-mining-python/2018-spring/classes/) (мой любимый!)
+     - [линейная регрессия](https://colab.research.google.com/drive/1P9HnYUVMxM9x4MLcHC47evLreatizTPI?usp=sharing)
+     - [нелинейная регрессия (полиноминальная)](https://colab.research.google.com/drive/12xrlEm8izVFoRg5vu2DYA_qtaTYA_Op9?usp=sharing)
+     - [классификация](https://colab.research.google.com/drive/1DA86KDzHyZvsK2u-G_mtLQD4qQ3pcSHS?usp=sharing)
+     - [кластеризация](https://colab.research.google.com/drive/1aFR1lt4kEtxv5F0tweW9n-2t1jPcdrU4?usp=sharing)
+     - [факторный анализ](https://colab.research.google.com/drive/1_Uy9IZuVUW8F65Jj2HpD23HP32l6UOf1?usp=sharing)
+     - классный [курс по анализу данных](https://compscicenter.ru/courses/data-mining-python/2018-spring/classes/) (мой любимый!)
 10. Визуализация данных **КР!**
 11. Регулярные выражения
 12. Препроцессинг, NLTK
