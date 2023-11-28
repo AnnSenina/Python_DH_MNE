@@ -17,7 +17,7 @@
 6. [Словари и множества](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_3_set%2C_dict.ipynb)
 7. [Работа с файлами](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_6_os%2C_files.ipynb)
 8. [Библиотека pandas, работа с датасетами](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_pandas.ipynb) + [пара заданий](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B_%D0%B4%D0%B0%D1%82%D0%B0%D1%81%D0%B5%D1%82_%D0%BF%D0%BE_%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D1%82%D0%B0%D0%BC.ipynb) попроще
-9. Статистика и анализ данных. 
+9. [Статистика и анализ данных](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Базовая%20статистика.ipynb). 
 10. Визуализация данных **КР!**
 11. Регулярные выражения
 12. Препроцессинг, NLTK
