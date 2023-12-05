@@ -24,7 +24,7 @@
      - [кластеризация](https://colab.research.google.com/drive/1aFR1lt4kEtxv5F0tweW9n-2t1jPcdrU4?usp=sharing)
      - [факторный анализ](https://colab.research.google.com/drive/1_Uy9IZuVUW8F65Jj2HpD23HP32l6UOf1?usp=sharing)
      - классный [курс по анализу данных](https://compscicenter.ru/courses/data-mining-python/2018-spring/classes/) (мой любимый!)
-10. Визуализация данных **КР!**
+10. [Визуализация данных](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_Vizualization.ipynb) **КР!**
 11. Регулярные выражения
 12. Препроцессинг, NLTK
 13. Собираем корпус: парсеры, краулеры, скрейперы **КР!**
