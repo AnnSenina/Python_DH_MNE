@@ -26,7 +26,7 @@
      - классный [курс по анализу данных](https://compscicenter.ru/courses/data-mining-python/2018-spring/classes/) (мой любимый!)
 10. [Визуализация данных](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_Vizualization.ipynb) **КР!**
 11. [Регулярные выражения](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_7_regex_2023.ipynb)
-12. Препроцессинг, NLTK
+12. [Препроцессинг, NLTK](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_8_%D0%BF%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B8%D0%BD%D0%B3%2C_NLTK.ipynb)
 13. Собираем корпус: парсеры, краулеры, скрейперы **КР!**
 14. Частотные списки и n-граммы
 15. pymorphy, mystem, сентимент-анализ, topik modelling
