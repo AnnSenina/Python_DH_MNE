@@ -28,8 +28,8 @@
 11. [Регулярные выражения](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_7_regex_2023.ipynb)
 12. [Препроцессинг, NLTK](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_8_%D0%BF%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B8%D0%BD%D0%B3%2C_NLTK.ipynb)
 13. [Собираем корпус: парсеры, краулеры, скрейперы](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_11_BeautifulSoup.ipynb) **КР!**
-14. Частотные списки и n-граммы
-15. pymorphy, mystem, сентимент-анализ, topic modelling
+14. [Частотные списки и n-граммы, pymorphy, mystem, сентимент-анализ](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Python_9_библиотеки_для_DH_текст.ipynb), [topic modelling](https://github.com/AnnSenina/Python_DH_MNE/blob/main/notebooks/Topic_Modeling_Д.Скоринкин.ipynb)
+15. Консультация (любые вопросы и долги)
 
 
 # Формула оценивания
